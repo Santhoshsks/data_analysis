@@ -1,0 +1,218 @@
+2025-03-20 20:32:19,635 [INFO] Logging started
+2025-03-20 20:32:19,756 [INFO] Inserted weather data for New York
+2025-03-20 20:32:19,954 [INFO] Inserted weather data for London
+2025-03-20 20:32:20,198 [INFO] Inserted weather data for Tokyo
+2025-03-20 20:32:20,295 [INFO] Inserted weather data for Berlin
+2025-03-20 20:32:20,373 [INFO] Inserted weather data for Paris
+2025-03-20 20:32:20,461 [INFO] Inserted weather data for Sydney
+2025-03-20 20:32:20,543 [INFO] Inserted weather data for Los Angeles
+2025-03-20 20:32:20,621 [INFO] Inserted weather data for Madrid
+2025-03-20 20:32:20,691 [INFO] Inserted weather data for Rome
+2025-03-20 20:32:20,782 [INFO] Inserted weather data for Moscow
+2025-03-20 20:32:20,859 [INFO] Inserted weather data for Cairo
+2025-03-20 20:32:20,939 [INFO] Inserted weather data for Dubai
+2025-03-20 20:32:21,013 [INFO] Inserted weather data for Singapore
+2025-03-20 20:32:21,146 [INFO] Inserted weather data for Seoul
+2025-03-20 20:32:21,220 [INFO] Inserted weather data for Toronto
+2025-03-20 20:32:21,312 [INFO] Inserted weather data for Mumbai
+2025-03-20 20:32:21,312 [INFO] Completed weather logging for all cities
+2025-03-20 20:35:00,519 [INFO] Logging started
+2025-03-20 20:35:00,607 [INFO] Inserted weather data for New York
+2025-03-20 20:35:00,684 [INFO] Inserted weather data for London
+2025-03-20 20:35:00,756 [INFO] Inserted weather data for Tokyo
+2025-03-20 20:35:00,823 [INFO] Inserted weather data for Berlin
+2025-03-20 20:35:00,888 [INFO] Inserted weather data for Paris
+2025-03-20 20:35:00,965 [INFO] Inserted weather data for Sydney
+2025-03-20 20:35:01,054 [INFO] Inserted weather data for Los Angeles
+2025-03-20 20:35:01,134 [INFO] Inserted weather data for Madrid
+2025-03-20 20:35:01,223 [INFO] Inserted weather data for Rome
+2025-03-20 20:35:01,308 [INFO] Inserted weather data for Moscow
+2025-03-20 20:35:01,382 [INFO] Inserted weather data for Cairo
+2025-03-20 20:35:01,466 [INFO] Inserted weather data for Dubai
+2025-03-20 20:35:01,551 [INFO] Inserted weather data for Singapore
+2025-03-20 20:35:01,630 [INFO] Inserted weather data for Seoul
+2025-03-20 20:35:01,716 [INFO] Inserted weather data for Toronto
+2025-03-20 20:35:01,803 [INFO] Inserted weather data for Mumbai
+2025-03-20 20:35:01,803 [INFO] Completed weather logging for all cities
+2025-03-20 20:55:03,485 [INFO] Logging started
+2025-03-20 20:55:03,717 [WARNING] API error for New York: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:03,797 [WARNING] API error for London: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:03,877 [WARNING] API error for Tokyo: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:03,973 [WARNING] API error for Berlin: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:04,069 [WARNING] API error for Paris: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:04,213 [WARNING] API error for Sydney: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:05,280 [WARNING] API error for Los Angeles: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:05,345 [WARNING] API error for Madrid: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:05,413 [WARNING] API error for Rome: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:05,470 [WARNING] API error for Moscow: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:05,537 [WARNING] API error for Cairo: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:05,597 [WARNING] API error for Dubai: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:05,722 [WARNING] API error for Singapore: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:05,785 [WARNING] API error for Seoul: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:05,846 [WARNING] API error for Toronto: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:05,913 [WARNING] API error for Mumbai: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:55:05,913 [INFO] Completed weather logging for all cities
+2025-03-20 20:56:05,921 [INFO] Logging started
+2025-03-20 20:56:06,001 [WARNING] API error for New York: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:06,069 [WARNING] API error for London: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:06,137 [WARNING] API error for Tokyo: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:06,201 [WARNING] API error for Berlin: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:06,267 [WARNING] API error for Paris: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:06,333 [WARNING] API error for Sydney: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:06,406 [WARNING] API error for Los Angeles: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:06,471 [WARNING] API error for Madrid: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:06,535 [WARNING] API error for Rome: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:06,621 [WARNING] API error for Moscow: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:06,702 [WARNING] API error for Cairo: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:06,769 [WARNING] API error for Dubai: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:06,829 [WARNING] API error for Singapore: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:06,884 [WARNING] API error for Seoul: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:06,948 [WARNING] API error for Toronto: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:07,005 [WARNING] API error for Mumbai: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:56:07,005 [INFO] Completed weather logging for all cities
+2025-03-20 20:57:07,023 [INFO] Logging started
+2025-03-20 20:57:07,085 [WARNING] API error for New York: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:07,148 [WARNING] API error for London: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:07,212 [WARNING] API error for Tokyo: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:07,266 [WARNING] API error for Berlin: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:07,334 [WARNING] API error for Paris: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:07,396 [WARNING] API error for Sydney: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:07,466 [WARNING] API error for Los Angeles: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:07,528 [WARNING] API error for Madrid: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:07,592 [WARNING] API error for Rome: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:07,652 [WARNING] API error for Moscow: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:07,712 [WARNING] API error for Cairo: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:07,774 [WARNING] API error for Dubai: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:07,875 [WARNING] API error for Singapore: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:07,977 [WARNING] API error for Seoul: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:08,041 [WARNING] API error for Toronto: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:08,107 [WARNING] API error for Mumbai: Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.
+2025-03-20 20:57:08,107 [INFO] Completed weather logging for all cities
+2025-03-20 20:58:24,828 [INFO] Logging started
+2025-03-20 20:58:28,583 [INFO] Inserted weather data for New York
+2025-03-20 20:58:28,676 [INFO] Inserted weather data for London
+2025-03-20 20:58:28,751 [INFO] Inserted weather data for Tokyo
+2025-03-20 20:58:28,875 [INFO] Inserted weather data for Berlin
+2025-03-20 20:58:28,985 [INFO] Inserted weather data for Paris
+2025-03-20 20:58:29,091 [INFO] Inserted weather data for Sydney
+2025-03-20 20:58:29,191 [INFO] Inserted weather data for Los Angeles
+2025-03-20 20:58:29,329 [INFO] Inserted weather data for Madrid
+2025-03-20 20:58:29,434 [INFO] Inserted weather data for Rome
+2025-03-20 20:58:29,525 [INFO] Inserted weather data for Moscow
+2025-03-20 20:58:29,645 [INFO] Inserted weather data for Cairo
+2025-03-20 20:58:29,734 [INFO] Inserted weather data for Dubai
+2025-03-20 20:58:29,905 [INFO] Inserted weather data for Singapore
+2025-03-20 20:58:30,004 [INFO] Inserted weather data for Seoul
+2025-03-20 20:58:30,169 [INFO] Inserted weather data for Toronto
+2025-03-20 20:58:30,238 [INFO] Inserted weather data for Mumbai
+2025-03-20 20:58:30,238 [INFO] Completed weather logging for all cities
+2025-03-20 20:59:25,253 [INFO] Logging started
+2025-03-20 20:59:25,332 [INFO] Inserted weather data for New York
+2025-03-20 20:59:25,415 [INFO] Inserted weather data for London
+2025-03-20 20:59:25,507 [INFO] Inserted weather data for Tokyo
+2025-03-20 20:59:26,274 [INFO] Inserted weather data for Berlin
+2025-03-20 20:59:26,348 [INFO] Inserted weather data for Paris
+2025-03-20 20:59:26,416 [INFO] Inserted weather data for Sydney
+2025-03-20 20:59:26,498 [INFO] Inserted weather data for Los Angeles
+2025-03-20 20:59:26,581 [INFO] Inserted weather data for Madrid
+2025-03-20 20:59:26,665 [INFO] Inserted weather data for Rome
+2025-03-20 20:59:27,403 [INFO] Inserted weather data for Moscow
+2025-03-20 20:59:27,525 [INFO] Inserted weather data for Cairo
+2025-03-20 20:59:27,623 [INFO] Inserted weather data for Dubai
+2025-03-20 20:59:27,711 [INFO] Inserted weather data for Singapore
+2025-03-20 20:59:27,786 [INFO] Inserted weather data for Seoul
+2025-03-20 20:59:27,869 [INFO] Inserted weather data for Toronto
+2025-03-20 20:59:27,952 [INFO] Inserted weather data for Mumbai
+2025-03-20 20:59:27,952 [INFO] Completed weather logging for all cities
+2025-03-20 20:59:32,953 [INFO] Logging started
+2025-03-20 20:59:34,033 [INFO] Inserted weather data for New York
+2025-03-20 20:59:34,096 [INFO] Inserted weather data for London
+2025-03-20 20:59:34,183 [INFO] Inserted weather data for Tokyo
+2025-03-20 20:59:34,255 [INFO] Inserted weather data for Berlin
+2025-03-20 20:59:34,334 [INFO] Inserted weather data for Paris
+2025-03-20 20:59:34,409 [INFO] Inserted weather data for Sydney
+2025-03-20 20:59:34,475 [INFO] Inserted weather data for Los Angeles
+2025-03-20 20:59:34,548 [INFO] Inserted weather data for Madrid
+2025-03-20 20:59:34,617 [INFO] Inserted weather data for Rome
+2025-03-20 20:59:34,679 [INFO] Inserted weather data for Moscow
+2025-03-20 20:59:34,744 [INFO] Inserted weather data for Cairo
+2025-03-20 20:59:34,823 [INFO] Inserted weather data for Dubai
+2025-03-20 20:59:34,897 [INFO] Inserted weather data for Singapore
+2025-03-20 20:59:34,977 [INFO] Inserted weather data for Seoul
+2025-03-20 20:59:35,049 [INFO] Inserted weather data for Toronto
+2025-03-20 20:59:35,110 [INFO] Inserted weather data for Mumbai
+2025-03-20 20:59:35,110 [INFO] Completed weather logging for all cities
+2025-03-20 21:00:30,160 [INFO] Logging started
+2025-03-20 21:00:30,254 [INFO] Inserted weather data for New York
+2025-03-20 21:00:30,335 [INFO] Inserted weather data for London
+2025-03-20 21:00:30,432 [INFO] Inserted weather data for Tokyo
+2025-03-20 21:00:30,642 [INFO] Inserted weather data for Berlin
+2025-03-20 21:00:32,043 [INFO] Inserted weather data for Paris
+2025-03-20 21:00:32,153 [INFO] Inserted weather data for Sydney
+2025-03-20 21:00:32,290 [INFO] Inserted weather data for Los Angeles
+2025-03-20 21:00:32,626 [INFO] Inserted weather data for Madrid
+2025-03-20 21:00:32,715 [INFO] Inserted weather data for Rome
+2025-03-20 21:00:32,791 [INFO] Inserted weather data for Moscow
+2025-03-20 21:00:32,884 [INFO] Inserted weather data for Cairo
+2025-03-20 21:00:32,965 [INFO] Inserted weather data for Dubai
+2025-03-20 21:00:34,112 [INFO] Inserted weather data for Singapore
+2025-03-20 21:00:34,291 [INFO] Inserted weather data for Seoul
+2025-03-20 21:00:34,424 [INFO] Inserted weather data for Toronto
+2025-03-20 21:00:34,510 [INFO] Inserted weather data for Mumbai
+2025-03-20 21:00:34,510 [INFO] Completed weather logging for all cities
+2025-03-20 21:00:39,511 [INFO] Logging started
+2025-03-20 21:00:42,563 [INFO] Inserted weather data for New York
+2025-03-20 21:00:42,633 [INFO] Inserted weather data for London
+2025-03-20 21:00:42,716 [INFO] Inserted weather data for Tokyo
+2025-03-20 21:00:44,467 [INFO] Inserted weather data for Berlin
+2025-03-20 21:00:44,540 [INFO] Inserted weather data for Paris
+2025-03-20 21:00:44,609 [INFO] Inserted weather data for Sydney
+2025-03-20 21:00:44,677 [INFO] Inserted weather data for Los Angeles
+2025-03-20 21:00:44,744 [INFO] Inserted weather data for Madrid
+2025-03-20 21:00:44,813 [INFO] Inserted weather data for Rome
+2025-03-20 21:00:44,883 [INFO] Inserted weather data for Moscow
+2025-03-20 21:00:44,965 [INFO] Inserted weather data for Cairo
+2025-03-20 21:00:45,074 [INFO] Inserted weather data for Dubai
+2025-03-20 21:00:45,246 [INFO] Inserted weather data for Singapore
+2025-03-20 21:00:45,380 [INFO] Inserted weather data for Seoul
+2025-03-20 21:00:45,583 [INFO] Inserted weather data for Toronto
+2025-03-20 21:00:45,673 [INFO] Inserted weather data for Mumbai
+2025-03-20 21:00:45,673 [INFO] Completed weather logging for all cities
+2025-03-20 21:01:35,678 [INFO] Logging started
+2025-03-20 21:01:35,753 [INFO] Inserted weather data for New York
+2025-03-20 21:01:35,824 [INFO] Inserted weather data for London
+2025-03-20 21:01:35,990 [INFO] Inserted weather data for Tokyo
+2025-03-20 21:01:36,166 [INFO] Inserted weather data for Berlin
+2025-03-20 21:01:36,276 [INFO] Inserted weather data for Paris
+2025-03-20 21:01:36,466 [INFO] Inserted weather data for Sydney
+2025-03-20 21:01:36,607 [INFO] Inserted weather data for Los Angeles
+2025-03-20 21:01:36,678 [INFO] Inserted weather data for Madrid
+2025-03-20 21:01:36,760 [INFO] Inserted weather data for Rome
+2025-03-20 21:01:36,870 [INFO] Inserted weather data for Moscow
+2025-03-20 21:01:36,988 [INFO] Inserted weather data for Cairo
+2025-03-20 21:01:37,092 [INFO] Inserted weather data for Dubai
+2025-03-20 21:01:37,205 [INFO] Inserted weather data for Singapore
+2025-03-20 21:01:37,280 [INFO] Inserted weather data for Seoul
+2025-03-20 21:01:37,446 [INFO] Inserted weather data for Toronto
+2025-03-20 21:01:37,547 [INFO] Inserted weather data for Mumbai
+2025-03-20 21:01:37,547 [INFO] Completed weather logging for all cities
+2025-03-20 21:01:47,549 [INFO] Logging started
+2025-03-20 21:01:47,612 [INFO] Inserted weather data for New York
+2025-03-20 21:01:47,694 [INFO] Inserted weather data for London
+2025-03-20 21:01:47,787 [INFO] Inserted weather data for Tokyo
+2025-03-20 21:01:47,853 [INFO] Inserted weather data for Berlin
+2025-03-20 21:01:47,935 [INFO] Inserted weather data for Paris
+2025-03-20 21:01:48,003 [INFO] Inserted weather data for Sydney
+2025-03-20 21:01:48,072 [INFO] Inserted weather data for Los Angeles
+2025-03-20 21:01:48,153 [INFO] Inserted weather data for Madrid
+2025-03-20 21:01:48,236 [INFO] Inserted weather data for Rome
+2025-03-20 21:01:48,309 [INFO] Inserted weather data for Moscow
+2025-03-20 21:01:48,430 [INFO] Inserted weather data for Cairo
+2025-03-20 21:01:48,571 [INFO] Inserted weather data for Dubai
+2025-03-20 21:01:55,630 [INFO] Inserted weather data for Singapore
+2025-03-20 21:01:55,727 [INFO] Inserted weather data for Seoul
+2025-03-20 21:01:55,795 [INFO] Inserted weather data for Toronto
+2025-03-20 21:01:55,873 [INFO] Inserted weather data for Mumbai
+2025-03-20 21:01:55,873 [INFO] Completed weather logging for all cities
+2025-03-20 21:03:25,337 [INFO] Saved daily and weekly averages to CSV files.
+2025-03-20 21:04:32,193 [INFO] Saved daily and weekly averages to CSV files.
