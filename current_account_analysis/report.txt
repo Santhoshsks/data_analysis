@@ -1,0 +1,43 @@
+------------- Final Account Balances -------------
+Customer C001: $13925.00
+Customer C002: $-9125.00
+Customer C003: $3715.00
+Customer C004: $26960.00
+Customer C005: $5480.00
+Customer C006: $-515.00
+Customer C007: $-1020.00
+
+------------- Total Deposits -------------
+Customer C001: $21000.00
+Customer C003: $8500.00
+Customer C004: $27000.00
+Customer C005: $5500.00
+
+------------- Total Withdrawals -------------
+Customer C002: $12000.00
+Customer C001: $8000.00
+Customer C003: $6700.00
+Customer C005: $1800.00
+Customer C004: $3000.00
+Customer C006: $1200.00
+Customer C007: $1500.00
+
+------------- Overdraft Charges -------------
+Customer C002: $125.00
+Customer C001: $75.00
+Customer C003: $85.00
+Customer C005: $20.00
+Customer C004: $40.00
+Customer C006: $15.00
+Customer C007: $20.00
+
+------------- Top 3 Customers with Most Overdrawn Days -------------
+Customer C002: 3 days 
+Customer C005: 1 days 
+Customer C006: 1 days 
+
+------------- Suspicious Activities -------------
+Customer C002 - Transaction T006 on 01/18/2025 with Balance $-1050.00
+Customer C002 - Transaction T011 on 01/25/2025 with Balance $-4585.00
+Customer C007 - Transaction T017 on 02/07/2025 with Balance $-1020.00
+Customer C002 - Transaction T021 on 02/17/2025 with Balance $-9125.00
