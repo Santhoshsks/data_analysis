@@ -1,0 +1,30 @@
+------ Report ------
+
+Total Deposits: 54500
+
+Top 3 Customers by Deposit:
+customer_id
+C001    21000
+C004    15000
+C003     8500
+
+Top 2 Customers by Withdrawal:
+customer_id
+C004    6500
+C002    5000
+
+Net Balance per Customer:
+customer_id
+C001    17500
+C002    -2500
+C003     5200
+C004     8500
+C005     1200
+C006      800
+
+Monthly Deposit and Withdrawal Summary:
+transaction_type  deposit  withdrawal
+month                                
+2025-01             16200        7500
+2025-02             23000        8800
+2025-03             15300        7500
